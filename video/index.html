@@ -87,7 +87,18 @@
         data-duration="10"
         data-track-index="10"
         data-volume="1"
-        data-automation='{"version":1,"lanes":[{"target":"volume","points":[{"t":0,"v":1},{"t":9.3,"v":1},{"t":9.95,"v":0}]}]}'
+        data-automation='{"version":1,"lanes":[{"target":"volume","points":[{"t":0,"v":2.5},{"t":9.3,"v":2.5},{"t":9.95,"v":0}]}]}'
+      ></audio>
+      <!-- Musique cinématique originale (music/make_music.py) : discrète sous les
+           applaudissements du début, puis plus présente, fondu final. -->
+      <audio
+        id="music"
+        src="music/musique-cinematique.mp3"
+        data-start="0"
+        data-duration="10"
+        data-track-index="11"
+        data-volume="1"
+        data-automation='{"version":1,"lanes":[{"target":"volume","points":[{"t":0,"v":0.2},{"t":3.2,"v":0.2},{"t":4.3,"v":0.45},{"t":9.3,"v":0.45},{"t":9.95,"v":0}]}]}'
       ></audio>
       <h1 id="title" class="clip" data-start="0" data-duration="3" data-track-index="1">
         Zaragoza Spain solar eclipse

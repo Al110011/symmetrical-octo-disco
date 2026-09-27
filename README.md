@@ -8,6 +8,8 @@ Le dossier `video/` contient un projet [HyperFrames](https://github.com/heygen-c
 
 La vidéo source n'est pas versionnée (`assets/` et `renders/` sont dans `.gitignore`) : copie ton clip sous `video/assets/clip-solar.mp4` avant l'aperçu ou le rendu.
 
+La musique de fond (`video/music/musique-cinematique.mp3`) est une création originale générée par `video/music/make_music.py` (sans droits d'auteur). Pour la remplacer, dépose un autre MP3 sous le même nom.
+
 ```bash
 cd video
 npm run dev     # aperçu dans le navigateur
