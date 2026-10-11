@@ -19,6 +19,7 @@
 ## 4. Lien avec les jours précédents
 - A avancé :
 - Stagne depuis ___ jours :
+- Sommeil de la nuit dernière : ___ h (coucher ___ / lever ___), qualité 1-5
 - Énergie / humeur (1-5) :
 
 ## 5. Lecture critique

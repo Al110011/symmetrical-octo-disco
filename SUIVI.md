@@ -12,6 +12,7 @@ Dernière mise à jour : 2026-10-11
 | Anglais | Monter de niveau (conversations existantes) ; option : école type université populaire | À fixer | Conversations en anglais (fréquence inconnue) | À ton initiative |
 | Sport : calisthénie | Tenir un handstand en équilibre, sans mur, d'ici fin 2026. Critère à confirmer (proposé : 10 s sans appui). Ensuite : dos, pectoraux, tractions, sans précipitation | 3 / semaine : lundi, mercredi (avant 17h), vendredi | Départ déclaré : 8-10 handstand push-ups au mur (ancien, non daté, « je crois ») ; équilibre libre : n'y arrive pas | Lundi 2026-10-12 : retester les HSPU au mur, noter le résultat |
 | Sport : souplesse (catalogue Yona Shavin : épaules, jambes) | _objectif et niveau actuel à préciser_ | 3 / semaine : mardi, jeudi + samedi ou dimanche (selon le week-end) | — | Mardi 2026-10-13 |
+| Sommeil | Mesurer avant de chercher à changer (bilan hebdo chaque dimanche) | Chiffre noté chaque jour | — | Dimanche 2026-10-18 : premier bilan hebdo |
 | Candidatures | 2 par semaine pour l'instant, à augmenter quand la situation sera plus claire (arrêt en cours) | 2 / semaine | — | Première candidature de la semaine du 2026-10-12 |
 | Mails à envoyer / relancer | — | — | — | — |
 
@@ -32,3 +33,9 @@ Dernière mise à jour : 2026-10-11
 - Allegria : statut exact des fils rouges 1 et 2 (faits ou non), caractère obligatoire ou conseillé, éventuelle date.
 - VAE : quand et comment arrivent les supports de cours, dossier à rendre, dates de l'évaluation.
 - Candidatures pendant l'arrêt : vérifier ce qui est autorisé avec le médecin / l'assurance avant d'envoyer.
+
+## Sommeil : règles de suivi
+- Le chiffre est noté chaque jour dans le bilan (heures dormies la nuit précédente, heure de coucher et de lever). Le bilan hebdomadaire du dimanche additionne ces chiffres, il ne repose pas sur un souvenir de la semaine.
+- Une nuit manquante reste vide ; elle n'est pas estimée après coup.
+- On distingue heures au lit et heures dormies si tu connais la différence ; sinon, on note ce que tu estimes en précisant « estimé ».
+- Le bilan du dimanche est dans `journal/hebdo/AAAA-MM-JJ.md` (modèle : `journal/_modele_hebdo.md`).
