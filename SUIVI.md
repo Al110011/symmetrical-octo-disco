@@ -27,7 +27,6 @@ Dernière mise à jour : 2026-10-11
 - Si une séance est impossible, elle n'est pas rattrapée le mercredi : on passe au palier minimal.
 - Durée d'une séance : 45 min à 1 h.
 - Plan provisoire : à reconsidérer à la reprise du travail (horaires et fatigue changeront).
-- Cible : 3 + 3 = 6 séances. Pas de séance de calisthénie supplémentaire : elle supprimerait le jour de repos.
 - Palier minimal si la semaine dérape : 3 séances au total, dont au moins 1 de souplesse.
 - Pour chaque séance, noter : programme ou vidéo suivi, durée, ressenti, et une mesure comparable d'une séance à l'autre (répétitions, temps de tenue, distance doigts-sol, angle d'écart…).
 - Sans mesure comparable, impossible de dire si ça progresse : le bilan se limitera à « fait / pas fait ».
