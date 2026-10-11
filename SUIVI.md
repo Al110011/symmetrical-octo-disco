@@ -11,7 +11,7 @@ Dernière mise à jour : 2026-10-11
 | Français écrit | Améliorer l'écriture | À fixer | Pas de cours choisi | Regarder les options (à ton initiative) |
 | Anglais | Monter de niveau (conversations existantes) ; option : école type université populaire | À fixer | Conversations en anglais (fréquence inconnue) | À ton initiative |
 | Sport : calisthénie | _mouvement-cible et niveau actuel à préciser_ | 3 / semaine : lundi, mercredi (avant 17h), vendredi | — | Lundi 2026-10-12 |
-| Sport : souplesse (catalogue Yona Shavin : épaules, jambes) | _objectif et niveau actuel à préciser_ | 3 / semaine : mardi, jeudi, samedi | — | Mardi 2026-10-13 |
+| Sport : souplesse (catalogue Yona Shavin : épaules, jambes) | _objectif et niveau actuel à préciser_ | 3 / semaine : mardi, jeudi + samedi ou dimanche (selon le week-end) | — | Mardi 2026-10-13 |
 | Candidatures | 2 par semaine pour l'instant, à augmenter quand la situation sera plus claire (arrêt en cours) | 2 / semaine | — | Première candidature de la semaine du 2026-10-12 |
 | Mails à envoyer / relancer | — | — | — | — |
 
@@ -20,7 +20,9 @@ Dernière mise à jour : 2026-10-11
 - Une prochaine action sans date n'est pas une action.
 
 ## Sport : règles de suivi
-- Semaine type : lun calisthénie · mar souplesse · mer calisthénie (avant 17h, cours VAE 17h30–20h) · jeu souplesse · ven calisthénie · sam souplesse · dim repos total.
+- Semaine type : lun calisthénie · mar souplesse · mer calisthénie (avant 17h, cours VAE 17h30–20h) · jeu souplesse · ven calisthénie · week-end : 3e séance de souplesse un jour au choix, l'autre jour en repos total.
+- Durée d'une séance : 45 min à 1 h.
+- Le jour du week-end (samedi ou dimanche) est fixé le vendredi soir, pas le jour même.
 - Cible : 3 + 3 = 6 séances. Pas de séance de calisthénie supplémentaire : elle supprimerait le jour de repos.
 - Palier minimal si la semaine dérape : 3 séances au total, dont au moins 1 de souplesse.
 - Pour chaque séance, noter : programme ou vidéo suivi, durée, ressenti, et une mesure comparable d'une séance à l'autre (répétitions, temps de tenue, distance doigts-sol, angle d'écart…).
