@@ -6,7 +6,7 @@ Dernière mise à jour : 2026-10-11
 | Chantier | Objectif concret | Rythme visé | Dernier mouvement | Prochaine action (datée) |
 |---|---|---|---|---|
 | Allegria : cours | Terminer les cours (≈ 55 % faits, déclaré) | Cours à placer dans l'agenda, à son rythme | non daté | À fixer : créneaux récurrents dans l'agenda |
-| Allegria : fil rouge niveau 1 | Démarrer puis rendre le projet niveau 1 (puis 2, 3) | À fixer | **Jamais commencé** | À fixer : premier pas (lire la consigne, 30 min) avec une date |
+| Allegria : fil rouge | Statut réel à vérifier : déclaré « non commencé » puis « peut-être déjà passés (1, voire 2) » ; conseillé, pas confirmé obligatoire | À fixer | Incertain | Ouvrir la plateforme et noter pour chaque niveau : fait / à faire / date éventuelle (lundi 2026-10-12, 15 min) |
 | VAE / CFC agent clientèle | Valider les acquis (expérience) + dernière année pour le CFC | Cours du soir de culture générale, mercredi 17h30–20h | Cours du mercredi (prochain : 2026-10-14) | Clarifier avec l'école : supports de cours, échéances, évaluations |
 | Français écrit | Améliorer l'écriture | À fixer | Pas de cours choisi | Regarder les options (à ton initiative) |
 | Anglais | Monter de niveau (conversations existantes) ; option : école type université populaire | À fixer | Conversations en anglais (fréquence inconnue) | À ton initiative |
@@ -27,6 +27,6 @@ Dernière mise à jour : 2026-10-11
 - Sans mesure comparable, impossible de dire si ça progresse : le bilan se limitera à « fait / pas fait ».
 
 ## Points ouverts à clarifier
-- Allegria : date de fin possible, échéances du fil rouge niveau 1.
+- Allegria : statut exact des fils rouges 1 et 2 (faits ou non), caractère obligatoire ou conseillé, éventuelle date.
 - VAE : quand et comment arrivent les supports de cours, dossier à rendre, dates de l'évaluation.
 - Candidatures pendant l'arrêt : vérifier ce qui est autorisé avec le médecin / l'assurance avant d'envoyer.
