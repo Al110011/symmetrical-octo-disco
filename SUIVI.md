@@ -11,9 +11,10 @@ Dernière mise à jour : 2026-10-11
 | Français écrit | Améliorer l'écriture | À fixer | Pas de cours choisi | Regarder les options (à ton initiative) |
 | Anglais | Monter de niveau (conversations existantes) ; option : école type université populaire | À fixer | Conversations en anglais (fréquence inconnue) | À ton initiative |
 | Sport : calisthénie | Tenir un handstand en équilibre, sans mur, d'ici fin 2026. Critère à confirmer (proposé : 10 s sans appui). Ensuite : dos, pectoraux, tractions, sans précipitation | 3 / semaine : lundi, mercredi (avant 17h), vendredi | Départ déclaré : 8-10 handstand push-ups au mur (ancien, non daté, « je crois ») ; équilibre libre : n'y arrive pas | Lundi 2026-10-12 : retester les HSPU au mur, noter le résultat |
-| Sport : souplesse (catalogue Yona Shavin : épaules, jambes) | _objectif et niveau actuel à préciser_ | 3 / semaine : mardi, jeudi + samedi ou dimanche (selon le week-end) | — | Mardi 2026-10-13 |
+| Sport : souplesse (catalogue Yona Shavin : épaules, jambes) | Gagner en souplesse des ischio-jambiers (pas de grand écart visé). Critère proposé, à confirmer : mains à plat au sol, jambes tendues, dès la 1re tentative à froid | 3 / semaine : mardi, jeudi + samedi ou dimanche (selon le week-end) | Départ déclaré : mains à plat au sol, debout jambes tendues, après 2 à 4 tentatives. Épaules : non renseigné | Mardi 2026-10-13 : test à froid, 1re tentative, noter oui / non (et distance si non) |
 | Sommeil | Mesurer avant de chercher à changer (bilan hebdo chaque dimanche) | Chiffre noté chaque jour | — | Dimanche 2026-10-18 : premier bilan hebdo |
 | Candidatures | 2 par semaine pour l'instant, à augmenter quand la situation sera plus claire (arrêt en cours) | 2 / semaine | — | Première candidature de la semaine du 2026-10-12 |
+| Vélo | Déplacements quotidiens ; trajets longs occasionnels (Genève–Nyon, Genève–Lausanne), pas faits depuis un moment | Pas d'objectif fixé | — | Noter dans le bilan les jours de vélo notables |
 | Mails à envoyer / relancer | — | — | — | — |
 
 ## Règle de lecture
