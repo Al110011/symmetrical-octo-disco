@@ -5,13 +5,13 @@ Situation de la semaine : en arrêt / en activité
 
 | Jour | Coucher | Lever | Heures dormies | Qualité (1-5) |
 |---|---|---|---|---|
-| Lun | | | | | |
-| Mar | | | | | |
-| Mer | | | | | |
-| Jeu | | | | | |
-| Ven | | | | | |
-| Sam | | | | | |
-| Dim | | | | | |
+| Lun | | | | |
+| Mar | | | | |
+| Mer | | | | |
+| Jeu | | | | |
+| Ven | | | | |
+| Sam | | | | |
+| Dim | | | | |
 
 - Moyenne : ___ h (nuits renseignées : _/7)
 - Plus courte / plus longue :
