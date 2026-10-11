@@ -29,6 +29,9 @@ Dernière mise à jour : 2026-10-11
 - Pour chaque séance, noter : programme ou vidéo suivi, durée, ressenti, et une mesure comparable d'une séance à l'autre (répétitions, temps de tenue, distance doigts-sol, angle d'écart…).
 - Sans mesure comparable, impossible de dire si ça progresse : le bilan se limitera à « fait / pas fait ».
 
+## Contexte
+- Arrêt de travail en cours, encore environ une semaine à partir du 2026-10-11, prolongation possible (déclaré).
+
 ## Points ouverts à clarifier
 - Allegria : statut exact des fils rouges 1 et 2 (faits ou non), caractère obligatoire ou conseillé, éventuelle date.
 - VAE : quand et comment arrivent les supports de cours, dossier à rendre, dates de l'évaluation.
@@ -37,5 +40,7 @@ Dernière mise à jour : 2026-10-11
 ## Sommeil : règles de suivi
 - Le chiffre est noté chaque jour dans le bilan (heures dormies la nuit précédente, heure de coucher et de lever). Le bilan hebdomadaire du dimanche additionne ces chiffres, il ne repose pas sur un souvenir de la semaine.
 - Une nuit manquante reste vide ; elle n'est pas estimée après coup.
-- On distingue heures au lit et heures dormies si tu connais la différence ; sinon, on note ce que tu estimes en précisant « estimé ».
+- On note uniquement les heures dormies (pas les heures au lit), telles que tu les estimes.
+- Chaque semaine est étiquetée « en arrêt » ou « en activité » : les chiffres pendant l'arrêt ne diront pas ce qui se passera au retour au travail.
+- Usage prévu : un relevé écrit et chiffré, à montrer à un professionnel de santé si tu le juges utile. Ce n'est pas un diagnostic.
 - Le bilan du dimanche est dans `journal/hebdo/AAAA-MM-JJ.md` (modèle : `journal/_modele_hebdo.md`).

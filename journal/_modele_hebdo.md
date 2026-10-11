@@ -1,8 +1,10 @@
 # Bilan de la semaine du AAAA-MM-JJ au AAAA-MM-JJ (dimanche)
 
-## Sommeil
-| Jour | Coucher | Lever | Heures dormies | Qualité (1-5) | Estimé ? |
-|---|---|---|---|---|---|
+## Sommeil (heures dormies uniquement)
+Situation de la semaine : en arrêt / en activité
+
+| Jour | Coucher | Lever | Heures dormies | Qualité (1-5) |
+|---|---|---|---|---|
 | Lun | | | | | |
 | Mar | | | | | |
 | Mer | | | | | |
