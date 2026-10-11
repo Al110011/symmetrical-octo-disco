@@ -35,9 +35,18 @@ Dernière mise à jour : 2026-10-11
 - L'agenda ne contient que les cours en ligne auxquels tu es inscrit (créneaux fixes). Les cours suivis seul (Allegria à son rythme, sport, langues) n'y sont pas : l'absence d'un événement ne prouve donc rien.
 - Arrêt de travail en cours, encore environ une semaine à partir du 2026-10-11, prolongation possible (déclaré).
 
+## Dates clés (déclarées, à confirmer sur les documents)
+- 2026-09-29 : entretien d'embauche passé. Décision inconnue, deuxième entretien possible.
+- 2026-10-16 (vendredi) : rendez-vous médecin.
+- 2026-10-18 : fin de l'arrêt (« je crois », à vérifier sur le certificat). Reprise prévue lundi 2026-10-19 si pas de prolongation.
+- Préavis de 2 mois (à clarifier : situation exacte et effet d'un arrêt maladie sur le préavis).
+- Fin de journée de travail possible vers 17h à la reprise : le sport reste à 18h–19h.
+
 ## Points ouverts à clarifier
 - Allegria : statut exact des fils rouges 1 et 2 (faits ou non), caractère obligatoire ou conseillé, éventuelle date.
 - VAE : quand et comment arrivent les supports de cours, dossier à rendre, dates de l'évaluation.
+- Mail de suivi à l'entreprise (entretien du 29/09) : à envoyer ou non, brièvement, avant le 16/10 ; rédaction à ta demande uniquement.
+- Plan de reprise au 19/10 : quelles séances restent obligatoires (palier minimal par défaut).
 - Candidatures pendant l'arrêt : vérifier ce qui est autorisé avec le médecin / l'assurance avant d'envoyer.
 
 ## Sommeil : règles de suivi
