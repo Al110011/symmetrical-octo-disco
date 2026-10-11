@@ -12,6 +12,7 @@
 - **Allegria** :
 - **VAE** :
 - **Langues** :
+- **Sport** : calisthénie / souplesse / repos — contenu, durée, mesure (ex. tenue, répétitions, amplitude), ressenti
 - **Candidatures** : envoyées / prévues mais non faites
 - **Mails** : écrits / à écrire / à relancer
 
