@@ -6,7 +6,7 @@ Dernière mise à jour : 2026-10-11
 | Chantier | Objectif concret | Rythme visé | Dernier mouvement | Prochaine action (datée) |
 |---|---|---|---|---|
 | Allegria : cours | Terminer les cours (≈ 55 % faits, déclaré) | Cours à placer dans l'agenda, à son rythme | non daté | À fixer : créneaux récurrents dans l'agenda |
-| Allegria : fil rouge | Statut réel à vérifier : déclaré « non commencé » puis « peut-être déjà passés (1, voire 2) » ; conseillé, pas confirmé obligatoire | À fixer | Incertain | Ouvrir la plateforme et noter pour chaque niveau : fait / à faire / date éventuelle (lundi 2026-10-12, 15 min) |
+| Allegria : fil rouge | Statut réel à vérifier : déclaré « non commencé » puis « peut-être déjà passés (1, voire 2) » ; conseillé, pas confirmé obligatoire | Échéance envisagée : projet fil rouge 1 conçu et finalisé avant fin 2026 (date exacte et mise à l'agenda à confirmer) | Incertain | Ouvrir la plateforme et noter pour chaque niveau : fait / à faire / date éventuelle (lundi 2026-10-12, 15 min) |
 | VAE / CFC agent clientèle | Valider les acquis (expérience) + dernière année pour le CFC | Cours du soir de culture générale, mercredi 17h30–20h | Cours du mercredi (prochain : 2026-10-14) | Clarifier avec l'école : supports de cours, échéances, évaluations |
 | Français écrit | Améliorer l'écriture | À fixer | Pas de cours choisi | Regarder les options (à ton initiative) |
 | Anglais | Monter de niveau (conversations existantes) ; option : école type université populaire | À fixer | Conversations en anglais (fréquence inconnue) | À ton initiative |
@@ -31,6 +31,7 @@ Dernière mise à jour : 2026-10-11
 - Sans mesure comparable, impossible de dire si ça progresse : le bilan se limitera à « fait / pas fait ».
 
 ## Contexte
+- L'agenda ne contient que les cours en ligne auxquels tu es inscrit (créneaux fixes). Les cours suivis seul (Allegria à son rythme, sport, langues) n'y sont pas : l'absence d'un événement ne prouve donc rien.
 - Arrêt de travail en cours, encore environ une semaine à partir du 2026-10-11, prolongation possible (déclaré).
 
 ## Points ouverts à clarifier
