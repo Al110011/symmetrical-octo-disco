@@ -1,16 +1,16 @@
 # Suivi des chantiers
 
 Mis à jour à chaque bilan quotidien. Le « dernier mouvement » sert à repérer ce qui stagne.
-Dernière mise à jour : 2026-10-11
+Dernière mise à jour : 2026-10-12
 
 | Chantier | Objectif concret | Rythme visé | Dernier mouvement | Prochaine action (datée) |
 |---|---|---|---|---|
 | Allegria : cours | Terminer les cours (≈ 55 % faits, déclaré) | Cours à placer dans l'agenda, à son rythme | non daté | À fixer : créneaux récurrents dans l'agenda |
-| Allegria : fil rouge | Statut réel à vérifier : déclaré « non commencé » puis « peut-être déjà passés (1, voire 2) » ; conseillé, pas confirmé obligatoire | Échéance envisagée : projet fil rouge 1 conçu et finalisé avant fin 2026 (date exacte et mise à l'agenda à confirmer) | Incertain | Ouvrir la plateforme et noter pour chaque niveau : fait / à faire / date éventuelle (lundi 2026-10-12, 15 min) |
+| Allegria : fil rouge | Projet fil rouge 1 : **rien de commencé** (confirmé le 2026-10-12, aucun projet créé). Conseillé, pas confirmé obligatoire | Échéance envisagée : projet fil rouge 1 conçu et finalisé avant fin 2026 (date à confirmer) | Aucun | Lire la consigne du fil rouge 1 et noter si on peut reprendre un projet existant ou en créer un (15 min, date à fixer) |
 | VAE / CFC agent clientèle | Valider les acquis (expérience) + dernière année pour le CFC | Cours du soir de culture générale, mercredi 17h30–20h | Cours du mercredi (prochain : 2026-10-14) | Clarifier avec l'école : supports de cours, échéances, évaluations |
 | Français écrit | Améliorer l'écriture | À fixer | Pas de cours choisi | Regarder les options (à ton initiative) |
 | Anglais | Monter de niveau (conversations existantes) ; option : école type université populaire | À fixer | Conversations en anglais (fréquence inconnue) | À ton initiative |
-| Sport : calisthénie | Tenir un handstand en équilibre, sans mur, d'ici fin 2026. Critère à confirmer (proposé : 10 s sans appui). Ensuite : dos, pectoraux, tractions, sans précipitation | 3 / semaine : lundi, jeudi, samedi | Départ déclaré : 8-10 handstand push-ups au mur (ancien, non daté, « je crois ») ; équilibre libre : n'y arrive pas | Lundi 2026-10-12 : retester les HSPU au mur, noter le résultat |
+| Sport : calisthénie | Tenir un handstand en équilibre, sans mur, d'ici fin 2026. Critère à confirmer (proposé : 10 s sans appui). Ensuite : dos, pectoraux, tractions, sans précipitation | 3 / semaine : lundi, jeudi, samedi | Test du 2026-10-12 : 8 handstand push-ups au mur (ancien souvenir : 8-10) ; équilibre libre : n'y arrive pas | Jeudi 2026-10-15 : séance calisthénie suivante |
 | Sport : souplesse (catalogue Yona Shavin : épaules, jambes) | Gagner en souplesse des ischio-jambiers (pas de grand écart visé). Critère proposé, à confirmer : mains à plat au sol, jambes tendues, dès la 1re tentative à froid | 3 / semaine : mardi, vendredi, dimanche | Départ déclaré : mains à plat au sol, debout jambes tendues, après 2 à 4 tentatives. Épaules : non renseigné | Mardi 2026-10-13 : test à froid, 1re tentative, noter oui / non (et distance si non) |
 | Sommeil | Mesurer avant de chercher à changer (bilan hebdo chaque dimanche) | Chiffre noté chaque jour | — | Dimanche 2026-10-18 : premier bilan hebdo |
 | Candidatures | 2 par semaine pour l'instant, à augmenter quand la situation sera plus claire (arrêt en cours) | 2 / semaine | — | Première candidature de la semaine du 2026-10-12 |
