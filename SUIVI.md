@@ -56,3 +56,8 @@ Dernière mise à jour : 2026-10-12
 - Chaque semaine est étiquetée « en arrêt » ou « en activité » : les chiffres pendant l'arrêt ne diront pas ce qui se passera au retour au travail.
 - Usage prévu : un relevé écrit et chiffré, à montrer à un professionnel de santé si tu le juges utile. Ce n'est pas un diagnostic.
 - Le bilan du dimanche est dans `journal/hebdo/AAAA-MM-JJ.md` (modèle : `journal/_modele_hebdo.md`).
+
+## Données pour les graphiques
+- `data/suivi.csv` : une ligne par jour (sport, mesure, sommeil, énergie, candidatures). Elle sert de base aux graphiques hebdomadaires et mensuels.
+- Les candidatures sont déjà suivies dans la base Notion « Suivi des candidatures » (utilisée par le brief du matin) : à ne pas saisir deux fois ; le compte hebdomadaire peut en être tiré.
+- Les graphiques ne sont produits qu'avec assez de données (au moins 3 à 4 semaines).
