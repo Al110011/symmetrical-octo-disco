@@ -6,7 +6,7 @@ Dernière mise à jour : 2026-10-12
 | Chantier | Objectif concret | Rythme visé | Dernier mouvement | Prochaine action (datée) |
 |---|---|---|---|---|
 | Allegria : cours | Terminer les cours (≈ 55 % faits, déclaré) | Cours à placer dans l'agenda, à son rythme | non daté | À fixer : créneaux récurrents dans l'agenda |
-| Allegria : fil rouge | Projet fil rouge 1 : **rien de commencé** (confirmé le 2026-10-12, aucun projet créé). Conseillé, pas confirmé obligatoire | Échéance envisagée : projet fil rouge 1 conçu et finalisé avant fin 2026 (date à confirmer) | Aucun | Lire la consigne du fil rouge 1 et noter si on peut reprendre un projet existant ou en créer un (15 min, date à fixer) |
+| Allegria : fil rouge | Projet fil rouge 1 : **rien de commencé** (confirmé le 2026-10-12, aucun projet créé). Conseillé, pas confirmé obligatoire | Échéance envisagée : projet fil rouge 1 conçu et finalisé avant fin 2026 (date à confirmer) | Aucun | Lire la consigne du fil rouge 1 et noter si on peut reprendre un projet existant ou en créer un (15 min, date à fixer). Exemple reçu le 2026-10-13 : projet « RH Onboarding » d'un autre élève (statut de validation inconnu), utile pour le format seulement |
 | VAE / CFC agent clientèle | Valider les acquis (expérience) + dernière année pour le CFC | Cours du soir de culture générale, mercredi 17h30–20h | Cours du mercredi (prochain : 2026-10-14) | Clarifier avec l'école : supports de cours, échéances, évaluations |
 | Français écrit | Améliorer l'écriture | À fixer | Pas de cours choisi | Regarder les options (à ton initiative) |
 | Anglais | Monter de niveau (conversations existantes) ; option : école type université populaire | À fixer | Conversations en anglais (fréquence inconnue) | À ton initiative |
