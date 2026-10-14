@@ -18,6 +18,11 @@ Situation de la semaine : en arrêt / en activité
 - Régularité (écart entre le coucher le plus tôt et le plus tard) :
 - Lien observé avec l'énergie, le sport, les cours (à lire avec prudence, quelques jours ne suffisent pas à conclure) :
 
+## Continuité
+- Séances de sport : faites _/6 (palier minimal : 3)
+- Candidatures : _/2 ; relances ou réponses reçues :
+- Jours où le bilan a été renseigné : _/7
+
 ## Chantiers
 - Séances de sport : calisthénie _/3, souplesse _/3
 - Candidatures : _/2

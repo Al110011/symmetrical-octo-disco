@@ -17,6 +17,13 @@ Dernière mise à jour : 2026-10-12
 | Vélo | Déplacements quotidiens ; trajets longs occasionnels (Genève–Nyon, Genève–Lausanne), pas faits depuis un moment | Pas d'objectif fixé | — | Noter dans le bilan les jours de vélo notables |
 | Mails à envoyer / relancer | — | — | — | — |
 
+## But du dispositif (réponses du 2026-10-14)
+- **Décision à un mois :** voir ta progression et surtout ta capacité à tenir les choses dans la durée (continuité à moyen et long terme).
+- **Priorités du mois :** 1) handstand en équilibre libre, 2) trouver un autre emploi (éviter le chômage). Allegria, VAE et langues n'en font pas partie pour l'instant.
+- **Ce qui manquerait si le suivi disparaissait :** un recul et une trace de ce qui s'est passé.
+- **Sommeil / énergie :** informations personnelles, rien n'est signalé à un professionnel ; tu décides toi-même de ce que tu montres.
+- **Indicateur de continuité (proposé, à confirmer) :** séances faites / séances prévues, par semaine, calculé le dimanche.
+
 ## Règle de lecture
 - Un chantier sans mouvement depuis 3 jours est signalé « en dérive » (hors cours à jour fixe).
 - Une prochaine action sans date n'est pas une action.
