@@ -8,14 +8,10 @@ Dernière mise à jour : 2026-10-12
 | Allegria : cours | Terminer les cours (≈ 55 % faits, déclaré) | Cours à placer dans l'agenda, à son rythme | non daté | À fixer : créneaux récurrents dans l'agenda |
 | Allegria : fil rouge | Projet fil rouge 1 : **rien de commencé** (confirmé le 2026-10-12, aucun projet créé). Conseillé, pas confirmé obligatoire | Échéance envisagée : projet fil rouge 1 conçu et finalisé avant fin 2026 (date à confirmer) | Aucun | Lire la consigne du fil rouge 1 et noter si on peut reprendre un projet existant ou en créer un (15 min, date à fixer). Exemple reçu le 2026-10-13 : projet « RH Onboarding » d'un autre élève (statut de validation inconnu), utile pour le format seulement |
 | VAE / CFC agent clientèle | Valider les acquis (expérience) + dernière année pour le CFC | Cours du soir de culture générale, mercredi 17h30–20h | Cours du mercredi (prochain : 2026-10-14) | Clarifier avec l'école : supports de cours, échéances, évaluations |
-| Français écrit | Améliorer l'écriture | À fixer | Pas de cours choisi | Regarder les options (à ton initiative) |
-| Anglais | Monter de niveau (conversations existantes) ; option : école type université populaire | À fixer | Conversations en anglais (fréquence inconnue) | À ton initiative |
-| Sport : calisthénie | Tenir un handstand en équilibre, sans mur, d'ici fin 2026. Critère à confirmer (proposé : 10 s sans appui). Ensuite : dos, pectoraux, tractions, sans précipitation | 3 / semaine : lundi, jeudi, samedi | Test du 2026-10-12 : 8 handstand push-ups au mur (ancien souvenir : 8-10) ; équilibre libre : n'y arrive pas | Jeudi 2026-10-15 : séance calisthénie suivante |
+| Sport : calisthénie | Tenir un handstand en équilibre, sans mur, d'ici fin 2026 (critère proposé : 10 s sans appui, à confirmer). Pratique actuelle, au ressenti : (1) changer les appuis et lever une jambe vers le haut, l'autre vers le bas, pour sentir la force et l'élan des jambes ; (2) contre le mur, pousser avec les doigts, colonne droite, en retenant la force. Pas de chronométrage pour l'instant | 3 / semaine : lundi, jeudi, samedi | Test du 2026-10-12 : 8 handstand push-ups au mur ; équilibre libre : n'y arrive pas | Jeudi 2026-10-15 : séance ; noter 1 à 2 mots de ressenti |
 | Sport : souplesse (catalogue Yona Shavin : épaules, jambes) | Gagner en souplesse des ischio-jambiers (pas de grand écart visé). Critère proposé, à confirmer : mains à plat au sol, jambes tendues, dès la 1re tentative à froid | 3 / semaine : mardi, vendredi, dimanche | Départ déclaré : mains à plat au sol, debout jambes tendues, après 2 à 4 tentatives. Épaules : non renseigné | Mardi 2026-10-13 : test à froid, 1re tentative, noter oui / non (et distance si non) |
 | Sommeil | Mesurer avant de chercher à changer (bilan hebdo chaque dimanche) | Chiffre noté chaque jour | — | Dimanche 2026-10-18 : premier bilan hebdo |
 | Candidatures | 2 par semaine pour l'instant, à augmenter quand la situation sera plus claire (arrêt en cours) | 2 / semaine | — | Première candidature de la semaine du 2026-10-12 |
-| Vélo | Déplacements quotidiens ; trajets longs occasionnels (Genève–Nyon, Genève–Lausanne), pas faits depuis un moment | Pas d'objectif fixé | — | Noter dans le bilan les jours de vélo notables |
-| Mails à envoyer / relancer | — | — | — | — |
 
 ## But du dispositif (réponses du 2026-10-14)
 - **Décision à un mois :** voir ta progression et surtout ta capacité à tenir les choses dans la durée (continuité à moyen et long terme).
@@ -23,6 +19,15 @@ Dernière mise à jour : 2026-10-12
 - **Ce qui manquerait si le suivi disparaissait :** un recul et une trace de ce qui s'est passé.
 - **Sommeil / énergie :** informations personnelles, rien n'est signalé à un professionnel ; tu décides toi-même de ce que tu montres.
 - **Indicateur de continuité (proposé, à confirmer) :** séances faites / séances prévues, par semaine, calculé le dimanche.
+
+## Décisions du 2026-10-14 (soir)
+- **Langues (français, anglais) :** reportées à 2027 (cours souvent le mercredi soir, en conflit avec la VAE). Retirées du suivi.
+- **Allegria :** continue, deuxième plan derrière le handstand et l'emploi ; plus de temps disponible, donc à ne pas traîner.
+- **Vélo, « mails à envoyer » :** lignes supprimées. Les mails envoyés sont notés ; un mail ou une candidature non envoyée devient une tâche à l'agenda le lendemain.
+- **Candidature urgente non envoyée :** alerte très visible dans le message du soir (première ligne, avec l'échéance), et événement d'agenda du lendemain avec rappels forts.
+- **Contrôle des mails du soir :** conservé (pas réduit).
+- **Question fixe « une action pour l'emploi aujourd'hui » :** ajoutée (à corriger si ce n'était pas ton intention).
+- **Handstand :** pas de chrono pour l'instant, suivi au ressenti ; test mesuré une fois par mois (meilleure tenue libre sur 3 essais), à confirmer.
 
 ## Règle de lecture
 - Un chantier sans mouvement depuis 3 jours est signalé « en dérive » (hors cours à jour fixe).

@@ -11,10 +11,8 @@
 ## 3. État des chantiers
 - **Allegria** :
 - **VAE** :
-- **Langues** :
 - **Sport** : calisthénie / souplesse / repos — contenu, durée, mesure (ex. tenue, répétitions, amplitude), ressenti
-- **Vélo** : oui / non, trajet long ou non
-- **Candidatures** : envoyées / prévues mais non faites
+- **Candidatures** : envoyées / prévues mais non faites (échéance) ; action pour l'emploi aujourd'hui : oui / non
 - **Mails** : écrits / à écrire / à relancer
 
 ## 4. Lien avec les jours précédents
