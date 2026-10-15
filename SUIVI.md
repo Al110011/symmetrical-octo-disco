@@ -30,7 +30,7 @@ Dernière mise à jour : 2026-10-12
 - **Handstand :** pas de chrono pour l'instant, suivi au ressenti ; test mesuré une fois par mois (meilleure tenue libre sur 3 essais), à confirmer.
 
 - **Alertes de candidature (15/10) :** chaque soir, toute candidature à échéance connue (≤ 3 jours) non envoyée déclenche automatiquement un événement « URGENT — Envoyer ... » le lendemain, sans attendre ta confirmation. Les échéances sont lues dans l'agenda et dans la base Notion « Suivi des candidatures ».
-- **Handstand (15/10) :** meilleure tenue estimée 12 s (incertain), 6 s une fois auparavant. À préciser : contre le mur ou sans mur ?
+- **Handstand (15/10) :** méthode actuelle : départ appuyé contre un mur ou une porte, puis écart des appuis pour tenir l'équilibre sans appui, sans sécurité derrière. Tenues : 6 s une fois (confirmé), 12 s le 15/10 (estimé, incertain). Le critère « 10 s sans appui » est donc à redéfinir : entrée depuis le mur (déjà proche) ou entrée libre sans mur (coup de pied).
 
 ## Règle de lecture
 - Un chantier sans mouvement depuis 3 jours est signalé « en dérive » (hors cours à jour fixe).
