@@ -29,6 +29,9 @@ Dernière mise à jour : 2026-10-12
 - **Question fixe « une action pour l'emploi aujourd'hui » :** ajoutée (à corriger si ce n'était pas ton intention).
 - **Handstand :** pas de chrono pour l'instant, suivi au ressenti ; test mesuré une fois par mois (meilleure tenue libre sur 3 essais), à confirmer.
 
+- **Alertes de candidature (15/10) :** chaque soir, toute candidature à échéance connue (≤ 3 jours) non envoyée déclenche automatiquement un événement « URGENT — Envoyer ... » le lendemain, sans attendre ta confirmation. Les échéances sont lues dans l'agenda et dans la base Notion « Suivi des candidatures ».
+- **Handstand (15/10) :** meilleure tenue estimée 12 s (incertain), 6 s une fois auparavant. À préciser : contre le mur ou sans mur ?
+
 ## Règle de lecture
 - Un chantier sans mouvement depuis 3 jours est signalé « en dérive » (hors cours à jour fixe).
 - Une prochaine action sans date n'est pas une action.
