@@ -32,6 +32,9 @@ Dernière mise à jour : 2026-10-12
 - **Alertes de candidature (15/10) :** chaque soir, toute candidature à échéance connue (≤ 3 jours) non envoyée déclenche automatiquement un événement « URGENT — Envoyer ... » le lendemain, sans attendre ta confirmation. Les échéances sont lues dans l'agenda et dans la base Notion « Suivi des candidatures ».
 - **Handstand (15/10) :** méthode actuelle : départ appuyé contre un mur ou une porte, puis écart des appuis pour tenir l'équilibre sans appui, sans sécurité derrière. Tenues : 6 s une fois (confirmé), 12 s le 15/10 (estimé, incertain). Objectif retenu le 2026-10-15 : tenir 2 à 3 secondes sans mur, entrée libre (coup de pied), d'ici fin 2026. Le départ depuis le mur reste la pratique actuelle.
 
+- **Recherche d'emploi (18/10) :** système de recherche mis en place par toi (« job coach » : lundi et jeudi pour des emplois, mercredi et vendredi pour des petits boulots à court terme). Il produit des offres, pas des candidatures : la cible reste 2 candidatures envoyées par semaine.
+- **Arrêt :** pas de retour au travail le 19/10. Le planning à 6 séances reste en vigueur.
+
 ## Règle de lecture
 - Un chantier sans mouvement depuis 3 jours est signalé « en dérive » (hors cours à jour fixe).
 - Une prochaine action sans date n'est pas une action.
