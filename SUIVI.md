@@ -35,6 +35,8 @@ Dernière mise à jour : 2026-10-12
 - **Recherche d'emploi (18/10) :** système de recherche mis en place par toi (« job coach » : lundi et jeudi pour des emplois, mercredi et vendredi pour des petits boulots à court terme). Il produit des offres, pas des candidatures : la cible reste 2 candidatures envoyées par semaine.
 - **Arrêt :** pas de retour au travail le 19/10. Le planning à 6 séances reste en vigueur.
 
+- **Exception semaine du 19/10 (21/10) :** pas de cours VAE mercredi (vacances), donc le mercredi 21/10 peut accueillir une séance de sport. Type à choisir. Reprise des cours VAE à confirmer.
+
 ## Règle de lecture
 - Un chantier sans mouvement depuis 3 jours est signalé « en dérive » (hors cours à jour fixe).
 - Une prochaine action sans date n'est pas une action.
