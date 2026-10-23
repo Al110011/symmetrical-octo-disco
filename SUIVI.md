@@ -37,6 +37,8 @@ Dernière mise à jour : 2026-10-12
 
 - **Exception semaine du 19/10 (21/10) :** pas de cours VAE mercredi (vacances), donc le mercredi 21/10 peut accueillir une séance de sport. Type à choisir. Reprise des cours VAE à confirmer.
 
+- **Handstand (23/10) :** environ 2 s sans aucun appui (ni mur ni porte) ; 8 à 9 s contre la porte. Les « 6 à 7 s sans appui » du 19/10 correspondaient probablement à un contact léger : référence à reprendre sur deux catégories distinctes (contre la porte / sans appui). Mode d'entrée sans appui (coup de pied ou départ appuyé) à préciser.
+
 ## Règle de lecture
 - Un chantier sans mouvement depuis 3 jours est signalé « en dérive » (hors cours à jour fixe).
 - Une prochaine action sans date n'est pas une action.
