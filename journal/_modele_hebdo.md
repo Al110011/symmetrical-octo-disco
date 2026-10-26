@@ -1,0 +1,39 @@
+# Bilan de la semaine du AAAA-MM-JJ au AAAA-MM-JJ (dimanche)
+
+## Sommeil (heures dormies uniquement)
+Situation de la semaine : en arrêt / en activité
+
+| Jour | Coucher | Lever | Heures dormies | Qualité (1-5) |
+|---|---|---|---|---|
+| Lun | | | | |
+| Mar | | | | |
+| Mer | | | | |
+| Jeu | | | | |
+| Ven | | | | |
+| Sam | | | | |
+| Dim | | | | |
+
+- Moyenne : ___ h (nuits renseignées : _/7)
+- Plus courte / plus longue :
+- Régularité (écart entre le coucher le plus tôt et le plus tard) :
+- Lien observé avec l'énergie, le sport, les cours (à lire avec prudence, quelques jours ne suffisent pas à conclure) :
+
+## Continuité
+- Séances de sport : faites _/6 (palier minimal : 3)
+- Candidatures : _/2 ; relances ou réponses reçues :
+- Jours où le bilan a été renseigné : _/7
+
+## Chantiers
+- Séances de sport : calisthénie _/3, souplesse _/3
+- Candidatures : _/2
+- Cours Allegria / cours du mercredi :
+- Langues :
+- Mails :
+
+## Ce qui a avancé / ce qui stagne
+-
+
+## Semaine suivante : 3 priorités
+1.
+2.
+3.
